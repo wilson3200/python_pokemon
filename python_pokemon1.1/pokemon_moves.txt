@@ -1,0 +1,31 @@
+Flamethrower: Fire, 95, 100, Special
+Air Slash: Flying, 75, 95, Special
+Cut: Normal, 50, 100, Physical
+Scratch: Normal, 50, 100, Physical
+Earthquake: Ground, 100, 100, Physical
+Vine Whip: Grass, 45, 100, Physical
+Tackle: Normal, 50, 100, Physical
+Strength: Normal, 80, 100, Physical
+Surf: Water, 95, 100, Special
+Dark Pulse: Dark, 80, 100, Special
+Rock Smash: Fighting, 40, 100, Physical
+Thunderbolt: Electric, 95, 100, Special
+Thunder: Electric, 120, 70, Special
+Brick Break: Fighting, 75, 100, Physical
+Aerial Ace: Flying, 60, 10000000, Physical
+Ice Beam: Ice, 95, 100, Special
+Blizzard: Ice, 120, 70, Special
+Shadow Ball: Ghost, 80, 100, Special
+Sludge Bomb: Poison, 90, 100, Special
+Psychic: Psychic, 90, 100, Special
+Energy Ball: Grass, 80, 100, Special
+Focus Blast: Fighting, 120, 70, Special
+Waterfall: Water, 80, 100, Physical
+Roar of Time: Dragon, 150, 90, Special
+Flash Cannon: Steel, 80, 100, Special
+Rock Slide: Rock, 70, 90, Physical
+Moonblast: Fairy, 95, 100, Special
+Dragon Pulse: Dragon, 90, 100, Special
+X-Scissor: Bug, 80, 100, Physical
+Iron Tail: Steel, 100, 75, Physical
+Meteor Mash: Steel, 90, 90, Physical

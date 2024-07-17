@@ -1,0 +1,52 @@
+Flamethrower: Fire, 95, 100, Special
+Air Slash: Flying, 75, 95, Special
+Cut: Normal, 50, 100, Physical
+Scratch: Normal, 50, 100, Physical
+Earthquake: Ground, 100, 100, Physical
+Vine Whip: Grass, 45, 100, Physical
+Tackle: Normal, 50, 100, Physical
+Strength: Normal, 80, 100, Physical
+Surf: Water, 95, 100, Special
+Dark Pulse: Dark, 80, 100, Special
+Rock Smash: Fighting, 40, 100, Physical
+Thunderbolt: Electric, 95, 100, Special
+Thunder: Electric, 120, 70, Special
+Brick Break: Fighting, 75, 100, Physical
+Aerial Ace: Flying, 60, 10000000, Physical
+Ice Beam: Ice, 95, 100, Special
+Blizzard: Ice, 120, 70, Special
+Shadow Ball: Ghost, 80, 100, Special
+Sludge Bomb: Poison, 90, 100, Special
+Psychic: Psychic, 90, 100, Special
+Energy Ball: Grass, 80, 100, Special
+Focus Blast: Fighting, 120, 70, Special
+Waterfall: Water, 80, 100, Physical
+Flash Cannon: Steel, 80, 100, Special
+Rock Slide: Rock, 70, 90, Physical
+Moonblast: Fairy, 95, 100, Special
+Dragon Pulse: Dragon, 90, 100, Special
+X-Scissor: Bug, 80, 100, Physical
+Iron Tail: Steel, 100, 75, Physical
+Meteor Mash: Steel, 90, 90, Physical
+Hydro Pump: Water, 120, 80, Special
+Fire Blast: Fire, 120, 85, Special
+Dragon Claw: Dragon, 80, 100, Physical
+Astonish: Ghost, 30, 100, Physical
+Leaf Blade: Grass, 90, 100, Physical
+Magical Leaf: Grass, 60, 10000000, Special
+Slam: Normal, 80, 75, Physical
+Psycho Cut: Psychic, 70, 100, Physical
+Stone Edge: Rock, 100, 80, Physical
+Mega Horn: Bug, 120, 85, Physical
+Crunch: Dark, 80, 100, Physical
+Iron Head: Steel, 80, 100, Physical
+Close Combat: Fighting, 120, 100, Physical
+Bulldoze: Ground, 60, 100, Physical
+Dazzling Gleam: Fairy, 80, 100, Special
+Metal Claw: Steel, 50, 95, Physical
+Shadow Claw: Ghost, 70, 100, Physical
+Ice Punch: Ice, 75, 100, Physical
+Bug Buzz: Bug, 90, 100, Special
+Fire Fang: Fire, 65, 95, Physical
+Cross Poison: Poison, 70, 100, Physical
+Precipice Blades: Ground, 120, 85, Physical

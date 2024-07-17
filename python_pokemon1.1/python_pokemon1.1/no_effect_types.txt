@@ -1,0 +1,18 @@
+Grass:
+Fire:
+Water:
+Electric: Ground
+Ground: Flying
+Bug:
+Rock:
+Ice:
+Dragon: Fairy
+Fairy:
+Dark:
+Psychic: Dark
+Ghost: Normal
+Poison: Steel
+Steel:
+Fighting: Ghost
+Flying:
+Normal: Ghost

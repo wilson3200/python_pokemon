@@ -1,0 +1,42 @@
+Charizard: Fire, Flying, Flamethrower, Air Slash, Cut, Scratch, 78, 84, 78, 109, 85, 100
+Torterra: Grass, Ground, Earthquake, Vine Whip, Tackle, Strength, 95, 109, 105, 75, 85, 56
+Greninja: Water, Dark, Surf, Dark Pulse, Tackle, Rock Smash, 72, 95, 67, 103, 71, 122
+Raichu: Electric, None, Thunderbolt, Thunder, Brick Break, Aerial Ace, 60, 90, 55, 90, 80, 110
+Glaceon: Ice, None, Ice Beam, Blizzard, Tackle, Shadow Ball, 65, 60, 110, 130, 95, 65
+Gengar: Ghost, Poison, Shadow Ball, Sludge Bomb, Psychic, Energy Ball, 60, 65, 60, 130, 75, 110
+Alakazam: Psychic, None, Psychic, Shadow Ball, Tackle, Focus Blast, 55, 50, 45, 135, 95, 120
+Bibarel: Normal, Water, Strength, Surf, Waterfall, Tackle, 79, 85, 60, 55, 60, 71
+Dialga: Dragon, Steel, Dragon Claw, Flash Cannon, Strength, Tackle, 100, 120, 120, 150, 100, 90
+Mewtwo: Psychic, None, Psychic, Earthquake, Shadow Ball, Energy Ball, 106, 110, 90, 154, 90, 130
+Electivire: Electric, None, Thunderbolt, Earthquake, Tackle, Brick Break, 75, 123, 67, 95, 85, 95
+Bronzong: Steel, Psychic, Psychic, Earthquake, Rock Slide, Flash Cannon, 67, 89, 116, 79, 116, 33
+Gardevoir: Psychic, Fairy, Psychic, Moonblast, Energy Ball, Thunderbolt, 68, 65, 65, 125, 115, 80
+Hydreigon: Dark, Dragon, Dragon Pulse, Flamethrower, Thunderbolt, Dark Pulse, 92, 105, 90, 125, 90, 98
+Pinsir: Bug, None, X-Scissor, Brick Break, Earthquake, Rock Slide, 65, 125, 100, 55, 70, 85
+Aggron: Steel, Rock, Rock Slide, Earthquake, Iron Tail, Tackle, 70, 110, 180, 60, 60, 50
+Lucario: Fighting, Steel, Close Combat, Dragon Pulse, Meteor Mash, Rock Smash, 70, 110, 70, 115, 70, 90
+Blastoise: Water, None, Hydro Pump, Waterfall, Blizzard, Flash Cannon, 79, 83, 100, 85, 105, 78
+Infernape: Fire, Fighting, Fire Blast, Close Combat, Tackle, Earthquake, 76, 104, 71, 104, 71, 108
+Staraptor: Normal, Flying, Aerial Ace, Close Combat, Air Slash, Astonish, 85, 120, 70, 50, 60, 100
+Jolteon: Electric, None, Thunder, Thunderbolt, Tackle, Shadow Ball, 65, 65, 60, 110, 95, 130
+Serperior: Grass, None, Leaf Blade, Magical Leaf, Slam, Dragon Pulse, 75, 75, 95, 75, 95, 113
+Gallade: Psychic, Fighting, Leaf Blade, Psycho Cut, Psychic, Close Combat, 68, 125, 65, 65, 115, 80
+Rhyperior: Ground, Rock, Earthquake, Mega Horn, Surf, Stone Edge, 115, 140, 130, 55, 55, 40
+Garchomp: Dragon, Ground, Earthquake, Dragon Claw, Crunch, Tackle, 108, 130, 95, 80, 85, 102
+Gyarados: Water, Flying, Waterfall, Surf, Crunch, Iron Head, 95, 125, 79, 60, 100, 81
+Venusaur: Grass, Poison, Energy Ball, Sludge Bomb, Tackle, Bulldoze, 80, 82, 83, 100, 100, 80
+Mr. Mime: Psychic, Fairy, Psychic, Dazzling Gleam, Thunderbolt, Brick Break, 40, 45, 65, 100, 120, 90
+Empoleon: Water, Steel, Hydro Pump, Flash Cannon, Metal Claw, Shadow Claw, 84, 86, 88, 111, 101, 60
+Ambipom: Normal, None, Strength, Shadow Claw, Brick Break, Ice Punch, 75, 100, 66, 60, 66, 115
+Typhlosion: Fire, None, Fire Blast, Strength, Earthquake, Focus Blast, 78, 84, 78, 109, 85, 100
+Houndoom: Dark, Fire, Fire Blast, Dark Pulse, Sludge Bomb, Shadow Ball, 75, 90, 50, 110, 80, 95
+Volcarona: Bug, Fire, Flamethrower, Bug Buzz, Air Slash, Psychic, 85, 60, 65, 135, 105, 100
+Articuno: Ice, Flying, Ice Beam, Air Slash, Aerial Ace, Blizzard, 90, 85, 100, 95, 125, 85
+Suicune: Water, None, Waterfall, Ice Beam, Hydro Pump, Shadow Ball, 100, 75, 115, 90, 115, 85
+Heracross: Bug, Fighting, Close Combat, Mega Horn, Brick Break, Aerial Ace, 80, 125, 75, 40, 95, 85
+Arcanine: Fire, None, Fire Blast, Fire Fang, Dragon Pulse, Aerial Ace, 90, 110, 80, 100, 80, 95
+Crobat: Poison, Flying, Air Slash, Cross Poison, X-Scissor, Aerial Ace, 85, 90, 80, 70, 80, 130
+Magmortar: Fire, None, Flamethrower, Thunderbolt, Psychic, Bulldoze, 75, 95, 67, 125, 95, 83
+Groudon: Ground, None, Precipice Blades, Fire Blast, Shadow Claw, Aerial Ace, 100, 150, 140, 100, 90, 90
+Chandelure: Ghost, Fire, Fire Blast, Shadow Ball, Energy Ball, Psychic, 60, 55, 90, 145, 90, 80
+Swampert: Water, Ground, Surf, Waterfall, Earthquake, Tackle, 100, 110, 90, 85, 90, 60

@@ -1,0 +1,17 @@
+Charizard: Fire, Flying, Flamethrower, Air Slash, Cut, Scratch, 78, 84, 78, 109, 85, 100
+Torterra: Grass, Ground, Earthquake, Vine Whip, Tackle, Strength, 95, 109, 105, 75, 85, 56
+Greninja: Water, Dark, Surf, Dark Pulse, Tackle, Rock Smash, 72, 95, 67, 103, 71, 122
+Raichu: Electric, None, Thunderbolt, Thunder, Brick Break, Aerial Ace, 
+Glaceon: Ice, None, Ice Beam, Blizzard, Tackle, Shadow Ball, 65, 130, 95, 65
+Gengar: Ghost, Poison, Shadow Ball, Sludge Bomb, Psychic, Energy Ball, 60, 130, 60, 110
+Alakazam: Psychic, None, Psychic, Shadow Ball, Tackle, Focus Blast, 55, 135, 45, 120
+Biberel: Normal, Water, Strength, Surf, Waterfall, Tackle, 79, 85, 60, 71
+Dialga: Dragon, Steel, Roar of Time, Flash Cannon, Strength, Tackle, 100, 150, 100, 90
+Mewtwo: Psychic, None, Psychic, Earthquake, Shadow Ball, Energy Ball, 106, 154, 90, 130
+Electivire: Electric, None, Thunderbolt, Earthquake, Tackle, Brick Break, 75, 123, 85, 95
+Bronzong: Steel, Psychic, Psychic, Earthquake, Rock Slide, Flash Cannon, 67, 89, 116, 33
+Gardevoir: Psychic, Fairy, Psychic, Moonblast, Energy Ball, Thunderbolt, 68, 125, 115, 80
+Hydreigon: Dark, Dragon, Dragon Pulse, Flamethrower, Thunderbolt, Dark Pulse, 92, 125, 90, 98
+Pinsir: Bug, None, X-Scissor, Brick Break, Earthquake, Rock Slide, 65, 125, 100, 85
+Aggron: Steel, Rock, Rock Slide, Earthquake, Iron Tail, Tackle, 70, 110, 180, 50
+Lucario: Fighting, Steel, Close Combat, Dragon Pulse, Meteor Mash, Rock Smash, 70, 110, 70, 90

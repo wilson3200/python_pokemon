@@ -1,0 +1,18 @@
+Grass: Fire, Grass, Poison, Flying, Bug, Dragon, Steel
+Fire: Fire, Water, Rock, Dragon
+Water: Grass, Water, Dragon
+Electric: Electric, Grass, Dragon
+Ground: Grass, Bug
+Bug: Fire, Fighting, Poison, Flying, Ghost, Steel, Fairy
+Rock: Fighting, Ground, Steel
+Ice: Fire, Water, Ice, Steel
+Dragon: Steel
+Fairy: Fire, Poison, Steel
+Dark: Fighting, Dark, Fairy
+Psychic: Psychic, Steel
+Ghost: Dark
+Poison: Poison, Ground, Rock, Ghost
+Steel: Fire, Water, Electric, Steel
+Fighting: Poison, Flying, Psychic, Bug, Fairy
+Flying: Electric, Rock, Steel
+Normal: Rock, Steel
